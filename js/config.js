@@ -10,6 +10,7 @@ const CONFIG = {
       name: 'Duckduckgo',
       key: '*',
       url: 'https://duckduckgo.com',
+      color: 'linear-gradient(135deg, #dd5145, #dd5145)',
       search: '/?q={}'
     },
     {
@@ -194,7 +195,7 @@ const CONFIG = {
   /**
    * Dynamic overlay background colors when command domains are matched.
    */
-  colors: true,
+  colors: false,
 
   /**
    * Invert color theme
@@ -221,7 +222,7 @@ const CONFIG = {
   /**
    * The delimiter between the hours and minutes on the clock.
    */
-  clockDelimiter: ' ',
+  clockDelimiter: ':',
 
   /**
    * Show a twenty-four-hour clock instead of a twelve-hour clock with AM/PM.
