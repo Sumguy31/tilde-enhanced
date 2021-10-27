@@ -46,6 +46,7 @@ const CONFIG = {
     {
       category: 'Carnegie Mellon',
       name: 'Piazza',
+      key: '1234',
       url: 'https://piazza.com/',
       color: 'linear-gradient(135deg, #2b2b2b, #3b3b3b)',
       icon: 'keep',
@@ -54,6 +55,7 @@ const CONFIG = {
     {
       category: 'Carnegie Mellon',
       name: 'Box',
+      key: '1234',
       url: 'https://cmu.app.box.com/folder/0',
       color: 'linear-gradient(135deg, #FF8456, #FF4500)',
       icon: 'keep',
@@ -62,6 +64,7 @@ const CONFIG = {
     {
       category: 'Carnegie Mellon',
       name: 'Canvas',
+      key: '1234',
       url: 'https://canvas.cmu.edu/',
       color: 'linear-gradient(135deg, #FF8456, #FF4500)',
       icon: 'keep',
@@ -70,6 +73,7 @@ const CONFIG = {
     {
       category: 'Carnegie Mellon',
       name: 'SIO',
+      key: '1234',
       url: 'https://s3.andrew.cmu.edu/sio',
       color: 'linear-gradient(135deg, #FF8456, #FF4500)',
       icon: 'keep',
@@ -101,6 +105,7 @@ const CONFIG = {
     {
       category: 'Class Pages',
       name: '16-223',
+      key: '1234',
       url: 'https://courses.ideate.cmu.edu/16-223/f2021/text/index.html',
       color: 'linear-gradient(135deg, #FF8456, #FF4500)',
       icon: 'keep',
@@ -109,6 +114,7 @@ const CONFIG = {
     {
       category: 'Class Pages',
       name: '18-341',
+      key: '1234',
       url: 'https://course.ece.cmu.edu/~ece344/',
       color: 'linear-gradient(135deg, #FF8456, #FF4500)',
       icon: 'keep',
@@ -117,6 +123,7 @@ const CONFIG = {
     {
       category: 'Class Pages',
       name: '18-344',
+      key: '1234',
       url: 'https://course.ece.cmu.edu/~ece344/',
       color: 'linear-gradient(135deg, #FF8456, #FF4500)',
       icon: 'keep',
