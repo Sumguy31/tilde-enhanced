@@ -95,7 +95,16 @@ const CONFIG = {
       icon: 'reddit',
       quickLaunch: false,
     },
-
+    
+    {
+      category: 'Class Pages',
+      name: '18-447',
+      key: '1234',
+      url: 'http://users.ece.cmu.edu/~jhoe/doku/doku.php?id=18-447_introduction_to_computer_architecture',
+      color: 'linear-gradient(135deg, #FF8456, #FF4500)',
+      icon: 'keep',
+      quickLaunch: false,
+    },
     {
       category: 'Class Pages',
       name: '16-223',
