@@ -100,7 +100,7 @@ const CONFIG = {
       category: 'Class Pages',
       name: '18-742',
       key: '1234',
-      url: 'ece.cmu.edu/~ece742',
+      url: 'https://ece.cmu.edu/~ece742',
       color: 'linear-gradient(135deg, #FF8456, #FF4500)',
       icon: 'keep',
       quickLaunch: false,
