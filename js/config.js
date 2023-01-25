@@ -134,7 +134,7 @@ const CONFIG = {
     },
     {
       category: 'Class Pages',
-      name: 'Acting for Non-Majors',
+      name: 'Acting',
       key: '1234',
       url: 'https://canvas.cmu.edu/courses/33013',
       color: 'linear-gradient(135deg, #FF8456, #FF4500)',
@@ -143,7 +143,7 @@ const CONFIG = {
     },
     {
       category: 'Class Pages',
-      name: 'Open Source Chip Design',
+      name: 'OS-Chip',
       key: '1234',
       url: 'https://canvas.cmu.edu/courses/33967',
       color: 'linear-gradient(135deg, #FF8456, #FF4500)',
