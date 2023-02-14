@@ -19,6 +19,16 @@ const CONFIG = {
     },
     {
       category: 'General',
+      name: 'CMU Mail',
+      key: 'c',
+      url: 'https://email.cmu.edu',
+      search: '/#search/text={}',
+      color: 'linear-gradient(135deg, #dd5145, #dd5145)',
+      icon: 'mail',
+      quickLaunch: true,
+    },
+    {
+      category: 'General',
       name: 'Drive',
       key: 'd',
       url: 'https://drive.google.com',
@@ -46,6 +56,16 @@ const CONFIG = {
       color: 'linear-gradient(135deg, #2b2b2b, #3b3b3b)',
       icon: 'whatsapp',
       quickLaunch: true,
+    },
+    {
+      category: 'Carnegie Mellon',
+      name: 'IEEE Xplore',
+      key: 'x',
+      url: 'https://ieeexplore.ieee.org/',
+      search: '/search/searchresult.jsp?queryText={}',
+      color: 'linear-gradient(135deg, #FF8456, #FF4500)',
+      icon: 'keep',
+      quickLaunch: false,
     },
     {
       category: 'Carnegie Mellon',
