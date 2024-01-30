@@ -146,9 +146,9 @@ const CONFIG = {
     },
     {
       category: 'Class Pages',
-      name: '18-725',
+      name: '18-786',
       key: '1234',
-      url: 'https://canvas.cmu.edu/courses/32533',
+      url: 'https://18-786.github.io/',
       color: 'linear-gradient(135deg, #FF8456, #FF4500)',
       icon: 'keep',
       quickLaunch: false,
